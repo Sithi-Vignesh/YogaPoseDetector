@@ -40,7 +40,7 @@ YogaPoseDetector/
 ```
 
 > ⚠️ The trained model file (`Yoga_Pose_Classification_Model.h5`) is not included in this repo due to file size (~368MB).
-> Download it here: [Google Drive Link] ← *(add your drive link here)*
+> Download it here: https://drive.google.com/file/d/1y0anmTJgJi_O9ex-SpHDhabmVWqAGGej/view?usp=sharing
 
 ---
 
