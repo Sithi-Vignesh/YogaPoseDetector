@@ -1,0 +1,10 @@
+tensorflow
+scikit-learn
+matplotlib
+seaborn
+numpy
+Pillow
+streamlit
+streamlit-webrtc
+opencv-python-headless
+google-generativeai
